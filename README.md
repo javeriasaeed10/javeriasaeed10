@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [Javeria](mailto:sjaveria239@gmail.com)!
 
 ### MERN Stack Developer & Graphic Designer 🌐💻
-I'm a passionate MERN Stack Developer with expertise in Graphic Designing. I love the world of web design and development, where creativity and technology intersect to bring ideas to life. With a keen eye for detail and a commitment to innovation, I'm dedicated to delivering web solutions that not only function flawlessly but also captivate and inspire.
+I'm a passionate MERN Stack Developer and also have expertise in Graphic Designing. I love the world of web design and development, where creativity and technology intersect to bring ideas to life. With a keen eye for detail and a commitment to innovation, I'm dedicated to delivering web solutions that not only function flawlessly but also captivate and inspire.
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning MERN Stack Development
