@@ -27,7 +27,6 @@ My passion for technology extends to the dynamic world of web development, parti
 
 <p align="left"> 
 <a href="mailto:sjaveria239@gmail.com" target="_blank" rel="noreferrer"><img src=https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg width="32" height="32" /></a>
-<a href="https://www.instagram.com/javeria_saeed/" target="_blank" rel="noreferrer"><img src=/images/instagram.svg width="32" height="32" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" /></a>
 
