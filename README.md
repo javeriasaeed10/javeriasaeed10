@@ -6,7 +6,7 @@ I'm a passionate MERN Stack Developer and also have expertise in Graphic Designi
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning MERN Stack Development
 - 👯 I’m looking to collaborate on Web Projects
-- ✉️  You can contact me at [sjaveria239@gmail.com](mailto:sjaveria239@gmail.com)
+- 📫 How to reach me [sjaveria239@gmail.com](mailto:sjaveria239@gmail.com)
 - 🌏 Based in Lahore, Pakistan
 
 ### 💡 Interests
