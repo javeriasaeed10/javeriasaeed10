@@ -23,9 +23,9 @@ My passion for technology extends to the dynamic world of web development, parti
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Photoshop" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="36" height="36" alt="Adobe XD" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="36" height="36" alt="Adobe XD" /></a>
+<a href="https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html" target="_blank" rel="noreferrer"><img src="Adobe_Illustrator.png" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
 ### Socials
